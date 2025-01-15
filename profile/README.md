@@ -38,6 +38,8 @@
 [![GetItOnGooglePlay_Badge_Web_color_English](https://github.com/user-attachments/assets/93ee41b9-ed81-462d-9203-4076aebb3064)](https://play.google.com/store/apps/details?id=com.bbtrain.BabBBu&pcampaignid=web_share)
 [![one_downloadbadge_red_black](https://github.com/user-attachments/assets/4b9ede72-dc72-458e-af12-614d3a6dcdd3)](https://onesto.re/0000779618)
 
+<br>
+
 ## 📝 프로덕트 로그
 - [밥밥트레인 (1) - 경력 0년차의 비영리스타트업 지원 프로그램 선정 후기](https://disquiet.io/@team_bbtrain/makerlog/%EB%B0%A5%EB%B0%A5%ED%8A%B8%EB%A0%88%EC%9D%B8-1-%EA%B2%BD%EB%A0%A5-0%EB%85%84%EC%B0%A8%EC%9D%98-%EB%B9%84%EC%98%81%EB%A6%AC%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%A7%80%EC%9B%90-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%84%A0%EC%A0%95-%ED%9B%84%EA%B8%B0)
 - [밥밥트레인 (2) - 문제 정의, 원격 협업, 그리고 단체 설립](https://disquiet.io/@team_bbtrain/makerlog/%EC%95%84%EC%82%B0-%EB%B9%84%EC%98%81%EB%A6%AC-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8F%84%EC%A0%84%ED%8A%B8%EB%A0%89-ot-%ED%9B%84%EA%B8%B0-%EB%AC%B8%EC%A0%9C-%EC%A0%95%EC%9D%98%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1-%EC%B5%9C%EC%A2%85-%EC%84%A0%EC%A0%95-%ED%86%B5%EB%B3%B4%EB%A5%BC-%EB%B0%9B%EC%9D%80)
